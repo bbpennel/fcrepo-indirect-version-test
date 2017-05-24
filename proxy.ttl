@@ -1,0 +1,4 @@
+@prefix ore: <http://www.openarchives.org/ore/terms/>
+
+<> ore:proxyFor </fcrepo/rest/childObject> ;
+ore:proxyIn <..> .
